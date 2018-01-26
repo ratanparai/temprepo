@@ -12,3 +12,5 @@ one squash commit test
 two squash commit test
 
 rebase commit line one
+
+rebase commit line two
